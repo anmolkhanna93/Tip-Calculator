@@ -18,7 +18,7 @@ The following **required** functionality is complete:
 
 
 The following **optional** features are implemented:
-*  I have enhanced the background for my application.
+*  I have enhanced the user interface for my application.
 
 The following **additional** features are implemented:
 

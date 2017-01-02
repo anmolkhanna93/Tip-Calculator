@@ -13,16 +13,16 @@ Time spent: 6 hours spent in total
 
 The following **required** functionality is complete:
 
-* User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* User can choose the tip percentages from 18%, 20%, 25%.
+[1] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+[2] User can choose the tip percentages from 18%, 20%, 25%.
 
 
 The following **optional** features are implemented:
-*  I have enhanced the user interface for my application.
+[1]  I have enhanced the user interface for my application.
 
 The following **additional** features are implemented:
 
-*  I have also added a slider for splitting the total bill among the group members. For now the maximum number of people is five.
+[1]  I have also added a slider for splitting the total bill among the group members. For now the maximum number of people is five.
 
 ## Video Walkthrough 
 

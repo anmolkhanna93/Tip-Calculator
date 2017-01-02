@@ -25,6 +25,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var splitValue: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        self.billField.becomeFirstResponder()
         // Do any additional setup after loading the view, typically from a nib.
     }
 

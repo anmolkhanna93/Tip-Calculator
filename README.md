@@ -22,6 +22,8 @@ The following **optional** features are implemented:
 
 [1]  I have enhanced the user interface for my application.
 
+[2] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+
 The following **additional** features are implemented:
 
 [1]  I have also added a slider for splitting the total bill among the group members. For now the maximum number of people is five.

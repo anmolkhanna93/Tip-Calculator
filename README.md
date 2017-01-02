@@ -14,6 +14,7 @@ Time spent: 6 hours spent in total
 The following **required** functionality is complete:
 
 [1] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+
 [2] User can choose the tip percentages from 18%, 20%, 25%.
 
 
